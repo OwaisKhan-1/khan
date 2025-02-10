@@ -1,3 +1,3 @@
 # khan
-add new repo line
+add new repo line(Aptech)
 
